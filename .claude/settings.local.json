@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sed -i '/layerGlow/d' src/main.js)",
+      "Bash(npm run *)",
+      "Bash(node *)"
+    ]
+  }
+}
